@@ -1,0 +1,18 @@
+# Core dependencies
+numpy
+opencv-python
+
+# Deep Learning
+tensorflow
+keras
+
+# Machine Learning utilities
+scikit-learn
+
+# Image processing
+Pillow
+
+# Optional: untuk visualisasi training
+matplotlib
+
+pygame
