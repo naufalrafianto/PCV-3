@@ -1,2 +1,4 @@
-card-dataset
-.env
+card-image
+.venv
+.vscode
+__pycache__
